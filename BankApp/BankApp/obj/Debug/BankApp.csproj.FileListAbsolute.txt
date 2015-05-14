@@ -1,0 +1,117 @@
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.exe.config
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.exe
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\bin\Debug\JagoanFisika.pdb
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\bin\Debug\Facebook.dll
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\bin\Debug\Facebook.xml
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\CustomNavigator.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\CustomNavigator.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\App.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika_MarkupCompile.cache
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.g.resources
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\BankApp.Properties.Resources.resources
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\BankApp.csproj.GenerateResource.Cache
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.exe
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\JagoanFisika.pdb
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\AddBank.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\AddTransaction.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\UserHome.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\Login.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\ShowTransactions.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\AddBank.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\AddTransaction.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\UserHome.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\Login.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\ShowTransactions.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\LoginScreen.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\WPFPageSwitcher\WPFPageSwitcher\WPFPageSwitch\obj\Debug\Pages\LoginScreen.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\bin\Debug\Facebook.dll
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\bin\Debug\PieControls.dll
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\bin\Debug\Facebook.xml
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\AddBank.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\AddTransaction.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\Chart.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\UserHome.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\Login.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\LoginScreen.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\ShowTransactions.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\CustomNavigator.baml
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\AddBank.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\AddTransaction.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\Chart.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\UserHome.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\Login.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\LoginScreen.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\Pages\ShowTransactions.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\CustomNavigator.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\App.g.cs
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\BankApp_MarkupCompile.cache
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\BankApp.g.resources
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\vbhaskar.ES\Desktop\facebook\BankApp\BankApp\BankApp\obj\Debug\BankApp.pdb
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\BankApp.pdb
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\AddBank.baml
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\AddTransaction.baml
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\Chart.baml
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\UserHome.baml
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\Login.baml
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\LoginScreen.baml
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\ShowTransactions.baml
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\CustomNavigator.baml
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\AddBank.g.cs
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\AddTransaction.g.cs
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\Chart.g.cs
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\UserHome.g.cs
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\Login.g.cs
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\LoginScreen.g.cs
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\Pages\ShowTransactions.g.cs
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\CustomNavigator.g.cs
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\App.g.cs
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\BankApp_MarkupCompile.cache
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\BankApp.g.resources
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\bin\Debug\Facebook.dll
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\bin\Debug\Facebook.xml
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+C:\Users\vbhaskar.ES\Desktop\BankApp\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\BankApp.pdb
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\bin\Debug\Facebook.dll
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\bin\Debug\Facebook.xml
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\AddBank.baml
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\AddTransaction.baml
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\Chart.baml
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\UserHome.baml
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\Login.baml
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\LoginScreen.baml
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\ShowTransactions.baml
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\CustomNavigator.baml
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\AddBank.g.cs
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\AddTransaction.g.cs
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\Chart.g.cs
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\UserHome.g.cs
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\Login.g.cs
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\LoginScreen.g.cs
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\Pages\ShowTransactions.g.cs
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\CustomNavigator.g.cs
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\App.g.cs
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\BankApp_MarkupCompile.cache
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\BankApp.g.resources
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache

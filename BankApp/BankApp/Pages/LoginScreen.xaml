@@ -1,0 +1,13 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+	mc:Ignorable="d"
+	x:Class="BankApp.LoginScreen"
+	d:DesignWidth="400" d:DesignHeight="800">
+	
+	<Grid x:Name="mainMenuLayoutRoot" Background="SkyBlue">
+		<Button x:Name="newGameButton" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center" Width="Auto" Content="Login using Facebook" Height="40" FontSize="21.333" Click="newButton_Click" FontWeight="Bold" />
+    </Grid>
+</UserControl>

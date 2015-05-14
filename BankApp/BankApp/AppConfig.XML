@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BankApp>
+  <ConnectionStr>Server=(localDB)\MSSQLLocalDB;Database=bank_app;Integrated Security=true</ConnectionStr>
+  <ClientId>835082179861208</ClientId>
+</BankApp>
