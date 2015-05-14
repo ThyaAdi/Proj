@@ -11,6 +11,7 @@ CREATE TABLE [dbo].[bank_account](
 	[created] [datetime] NULL DEFAULT (getdate())
 ) ON [PRIMARY]
 
+
 CREATE TABLE [dbo].[bank_transaction](
 	[id] [int] IDENTITY(1,1) NOT NULL,
 	[amount] [numeric](18, 0) NULL,

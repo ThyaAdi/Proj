@@ -61,6 +61,7 @@ namespace BankApp
                     list.Add(UserHomeData);
                 }
             }
+          
             BankDetails.Columns[0].Visibility = System.Windows.Visibility.Collapsed;
             BankDetails.ItemsSource = list;
 
@@ -68,8 +69,20 @@ namespace BankApp
             {
                 CustomNavigate.Switch(new AddBank());
             }
-        }
 
+            //using (SqlCommand command = new SqlCommand("select * from [bank_app].[dbo].[bank_account] where balance=MAX(Value) and user_id = " + me.id, conn))
+            //{
+              //  SqlDataReader reader = command.ExecuteReader();
+                
+               // while (reader.Read())
+                //{
+                    
+                //}
+            //}
+           
+        }
+       
+        
         /// <summary>
         /// Navigate to the bank account creation page
         /// </summary>

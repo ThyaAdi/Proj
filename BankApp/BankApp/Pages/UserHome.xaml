@@ -5,7 +5,7 @@
     
     
     <Grid>
-        <Frame Height="48" HorizontalAlignment="Left" Margin="0" Name="frame1" VerticalAlignment="Top" Width="400" BorderThickness="0,0,0,1" Background="#FF1F70F2" />
+        <Frame Height="48" HorizontalAlignment="Left" Margin="0" Name="frame1" VerticalAlignment="Top" Width="400" BorderThickness="0,0,0,1" Background="Blue" />
         <DataGrid AutoGenerateColumns="False" Height="Auto" HorizontalAlignment="Center" Margin="0,100,0,0" Name="BankDetails" VerticalAlignment="Top" Width="Auto" BorderThickness="0" CanUserSortColumns="False" CanUserResizeColumns="False" CanUserReorderColumns="False" VerticalContentAlignment="Top" DataContext="{Binding}" CanUserDeleteRows="True" CanUserResizeRows="False" SelectionMode="Single" AlternatingRowBackground="#FFCBBBBB" AlternationCount="1" CanUserAddRows="False" HeadersVisibility="Column" IsEnabled="True" SelectionChanged="bank_SelectionChanged" IsReadOnly="True" FontWeight="Normal">
                 <DataGrid.ContextMenu>
                     <ContextMenu />
