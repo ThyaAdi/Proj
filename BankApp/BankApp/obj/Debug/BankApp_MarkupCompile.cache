@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\obj\Debug\
+C:\Users\Adi Thya\Source\Repos\Proj2\BankApp\BankApp\obj\Debug\
 BankApp
 none
 false
 DEBUG;TRACE
-C:\Users\Adi Thya\Downloads\Second Sem\BankApp\BankApp\App.xaml
+C:\Users\Adi Thya\Source\Repos\Proj2\BankApp\BankApp\App.xaml
 8-763500468
 
 171398893604
-17-1251005649
+17499244341
 Pages\AddBank.xaml;Pages\AddTransaction.xaml;Pages\Chart.xaml;Pages\UserHome.xaml;Pages\Login.xaml;Pages\LoginScreen.xaml;Pages\ShowTransactions.xaml;CustomNavigator.xaml;
 
 False

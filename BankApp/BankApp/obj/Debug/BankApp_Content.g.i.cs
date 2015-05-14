@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("bin/debug/appconfig.xml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("migrations/createdb1.sql")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("migrations/createtable1.sql")]
 
 

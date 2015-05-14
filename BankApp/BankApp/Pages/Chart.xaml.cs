@@ -31,14 +31,14 @@ namespace BankApp
             DbConnection dbConn = DbConnection.getInstance();
             SqlConnection conn = dbConn.getConnection();
 
-            using (SqlCommand command = new SqlCommand("select transaction_type, count(*) categories from [bank_app].[dbo].[bank_transaction] where active='Y' and bank_account_id = " + id + " group by transaction_type", conn))
+            using (SqlCommand command = new SqlCommand("select Transaction_Type, count(*) categories from [bank_app].[dbo].[bank_transaction] where active='Y' and bank_account_id = " + id + " group by Amount", conn))
             {
                 SqlDataReader reader = command.ExecuteReader();
 
                 ObservableCollection<PieSegment> pieCollection = new ObservableCollection<PieSegment>();
                 while (reader.Read())
                 {
-                    string type = (string)reader["transaction_type"];
+                    string type = (string)reader["Transaction_Type"];
                     pieCollection.Add(new PieSegment { Color = GetColor(type), Value = (int)reader["categories"], Name = type });
                 }
                 TransactionChart.Data = pieCollection;
