@@ -31,7 +31,7 @@ namespace BankApp
             DbConnection dbConn = DbConnection.getInstance();
             SqlConnection conn = dbConn.getConnection();
 
-            using (SqlCommand command = new SqlCommand("select Transaction_Type, count(*) categories from [bank_app].[dbo].[bank_transaction] where active='Y' and bank_account_id = " + id + " group by Amount", conn))
+            using (SqlCommand command = new SqlCommand("select Transaction_Type, count(*) categories from [bank_app].[dbo].[bank_transaction] where active='Y' and bank_account_id = " + id +  "group by Transaction_Type", conn))
             {
                 SqlDataReader reader = command.ExecuteReader();
 

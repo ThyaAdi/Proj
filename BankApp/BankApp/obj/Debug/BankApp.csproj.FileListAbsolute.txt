@@ -146,3 +146,35 @@ C:\Users\Adi Thya\Source\Repos\Proj2\BankApp\BankApp\obj\Debug\BankApp_MarkupCom
 C:\Users\Adi Thya\Source\Repos\Proj2\BankApp\BankApp\obj\Debug\BankApp.g.resources
 C:\Users\Adi Thya\Source\Repos\Proj2\BankApp\BankApp\obj\Debug\BankApp.Properties.Resources.resources
 C:\Users\Adi Thya\Source\Repos\Proj2\BankApp\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\BankApp.pdb
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\bin\Debug\Facebook.dll
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\bin\Debug\Facebook.xml
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\AddBank.baml
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\AddTransaction.baml
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\Chart.baml
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\UserHome.baml
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\Login.baml
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\LoginScreen.baml
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\ShowTransactions.baml
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\CustomNavigator.baml
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\AddBank.g.cs
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\AddTransaction.g.cs
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\Chart.g.cs
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\UserHome.g.cs
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\Login.g.cs
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\LoginScreen.g.cs
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\Pages\ShowTransactions.g.cs
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\CustomNavigator.g.cs
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\App.g.cs
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\BankApp_Content.g.cs
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\BankApp_MarkupCompile.cache
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\BankApp.g.resources
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+C:\Users\nallana1\Source\Repos\Proj\BankApp\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache
